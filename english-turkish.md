@@ -1,0 +1,134 @@
+## {{cards [[english-turkish]]}}
+
+- Yes #card #english-turkish
+  - Evet
+- No #card #english-turkish
+  - Numara
+- Ok! #card #english-turkish
+  - Tamam!
+- Hello! #card #english-turkish
+  - Merhaba!
+- How are you? #card #english-turkish
+  - Nasılsınız?
+- OK. #card #english-turkish
+  - TAMAM.
+- Thank You! #card #english-turkish
+  - Teşekkürler!
+- You are welcome. #card #english-turkish
+  - Rica ederim.
+- Goodbye! #card #english-turkish
+  - Güle güle!
+- Sorry! #card #english-turkish
+  - Afedersiniz!
+- Where is it? #card #english-turkish
+  - Nerede?
+- How much is it? #card #english-turkish
+  - Ne kadar?
+- Do you have this? #card #english-turkish
+  - Sende bu var mı?
+- What is this? #card #english-turkish
+  - Bu nedir?
+- Why? #card #english-turkish
+  - Neden? Niye?
+- My name is #card #english-turkish
+  - Benim ismim
+- I'm from #card #english-turkish
+  - ben
+- I do not understand. #card #english-turkish
+  - Anlamıyorum.
+- I like #card #english-turkish
+  - Severim
+- I want #card #english-turkish
+  - İstiyorum
+- I have #card #english-turkish
+  - Sahibim
+- This #card #english-turkish
+  - Bu
+- That #card #english-turkish
+  - O
+- Here #card #english-turkish
+  - Burada
+- There #card #english-turkish
+  - Orası
+- Please #card #english-turkish
+  - Lütfen
+- Good #card #english-turkish
+  - İyi
+- Bad #card #english-turkish
+  - Kötü
+- Toilet #card #english-turkish
+  - Tuvalet
+- Water #card #english-turkish
+  - su
+- Money #card #english-turkish
+  - Para
+- More #card #english-turkish
+  - Daha
+- Less #card #english-turkish
+  - Az
+- Too much #card #english-turkish
+  - Çok fazla
+- Yummy #card #english-turkish
+  - Lezzetli
+- Beautiful #card #english-turkish
+  - Güzel
+- Broken #card #english-turkish
+  - Bozuldu
+- Dangerous #card #english-turkish
+  - Tehlikeli
+- Available #card #english-turkish
+  - Mevcut
+- Stop #card #english-turkish
+  - Durmak
+- one #card #english-turkish
+  - bir
+- two #card #english-turkish
+  - iki
+- three #card #english-turkish
+  - üç
+- four #card #english-turkish
+  - dört
+- five #card #english-turkish
+  - beş
+- six #card #english-turkish
+  - altı
+- seven #card #english-turkish
+  - Yedi
+- eight #card #english-turkish
+  - sekiz
+- nine #card #english-turkish
+  - dokuz
+- ten #card #english-turkish
+  - on
+- eleven #card #english-turkish
+  - on bir
+- twleve #card #english-turkish
+  - on iki
+- thirteen #card #english-turkish
+  - on üç
+- fourteen #card #english-turkish
+  - on dört
+- fifteen #card #english-turkish
+  - on beş
+- nineteen #card #english-turkish
+  - on dokuz
+- twenty #card #english-turkish
+  - yirmi
+- thirty #card #english-turkish
+  - otuz
+- forty #card #english-turkish
+  - kırk
+- fifty #card #english-turkish
+  - elli
+- sixty #card #english-turkish
+  - altmış
+- seventy #card #english-turkish
+  - yetmiş
+- eighty #card #english-turkish
+  - seksen
+- ninety #card #english-turkish
+  - doksan
+- hundred #card #english-turkish
+  - yüz
+- thousand #card #english-turkish
+  - bin

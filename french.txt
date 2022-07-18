@@ -1,0 +1,66 @@
+- Oui
+- Non
+- D'accord!
+- Bonjour!
+- Comment vas-tu?
+- D'ACCORD.
+- Merci!
+- Je vous en prie.
+- Au revoir!
+- Pardon!
+- Où est-il?
+- Combien ça coûte?
+- Avez-vous ce?
+- Qu'est-ce que c'est?
+- Pourquoi?
+- Mon nom est
+- je viens de
+- Je ne comprends pas.
+- j'aime
+- je veux
+- j'ai
+- Cette
+- Ce
+- Ici
+- Là
+- S'il vous plaît
+- Bien
+- Mal
+- Toilette
+- Eau
+- Argent
+- Suite
+- Moins
+- Trop
+- Délicieux
+- Belle
+- Cassé
+- Dangereux
+- Disponible
+- Arrêt
+- une
+- deux
+- Trois
+- quatre
+- cinq
+- six
+- Sept
+- huit
+- neuf
+- Dix
+- Onze
+- douze
+- treize
+- Quatorze
+- quinze
+- dix-neuf
+- vingt
+- trente
+- quarante
+- cinquante
+- soixante
+- soixante-dix
+- quatre-vingt
+- quatre-vingt-dix
+- cent
+- mille
