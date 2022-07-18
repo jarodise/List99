@@ -13,32 +13,32 @@ with open('list.txt', 'r') as f:
 print(english)
 # 创建翻译目标
 translator = Translator()
-turkish = translator.translate(english, dest="tr")
-turkish = str(turkish.text)
+Turkish = translator.translate(english, dest="tr")
+Turkish = str(Turkish.text)
 # 将翻译结果写入txt文件
-f = open("turkish.txt","w+")
-f.writelines(turkish)
+f = open("Turkish.txt","w+")
+f.writelines(Turkish)
 f.close()
-with open('turkish.txt', 'r') as f:
+with open('Turkish.txt', 'r') as f:
     lines = f.readlines()
     lines = ['- ' + line for line in lines]
-    with open('turkish.txt', 'w') as f:
+    with open('Turkish.txt', 'w') as f:
         f.writelines(lines)
         f.close()
 #组合两个语言到一个语言#
-with open('english.txt') as f1, open('turkish.txt') as f2, open('english-turkish.txt', 'w') as out:
+with open('english.txt') as f1, open('Turkish.txt') as f2, open('66单词表-english-Turkish.txt', 'w') as out:
     for line1, line2 in zip(f1, f2):
-        print(line1.rstrip(), " #card #english-turkish", sep='', file=out)
+        print(line1.rstrip(), " #card #english-Turkish", sep='', file=out)
         out.write('  ')
         out.write(line2)  
 #在文件顶部添加card query
-cards_query = '## {{cards [[english-turkish]]}}\n\n'
+cards_query = '## {{cards [[english-Turkish]]}}\n\n'
 
-with open('english-turkish.txt', 'r+') as file:
+with open('66单词表-english-Turkish.txt', 'r+') as file:
    content = file.read()
    file.seek(0)
    file.write(cards_query + content)
    file.close
 # 将txt文件转换成markdown文件   
 import shutil     
-shutil.copyfile("english-turkish.txt", "english-turkish.md")  
+shutil.copyfile("66单词表-english-Turkish.txt", "66单词表-english-Turkish.md")  

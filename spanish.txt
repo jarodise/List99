@@ -1,9 +1,9 @@
 - Sí
 - No
-- ¡OK!
+- OK
 - ¡Hola!
-- ¿Cómo estás?
-- ESTÁ BIEN.
+- ¿Como estas?
+- Lo estoy haciendo genial.
 - ¡Gracias!
 - De nada.
 - ¡Adiós!

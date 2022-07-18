@@ -1,9 +1,9 @@
 - Evet
 - Numara
-- Tamam!
+- TAMAM
 - Merhaba!
-- Nasılsınız?
-- TAMAM.
+- Nasılsın?
+- İyiyim.
 - Teşekkürler!
 - Rica ederim.
 - Güle güle!

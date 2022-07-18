@@ -1,9 +1,9 @@
 - Yes
 - No
-- Ok!
+- OK
 - Hello!
-- How are you?
-- OK.
+- How are you doing?
+- I'm fine.
 - Thank You!
 - You are welcome.
 - Goodbye!
