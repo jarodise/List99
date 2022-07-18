@@ -1,0 +1,66 @@
+- Yes
+- No
+- Ok!
+- Hello!
+- How are you?
+- OK.
+- Thank You!
+- You are welcome.
+- Goodbye!
+- Sorry!
+- Where is it?
+- How much is it?
+- Do you have this?
+- What is this?
+- Why?
+- My name is
+- I'm from
+- I do not understand.
+- I like
+- I want
+- I have
+- This
+- That
+- Here
+- There
+- Please
+- Good
+- Bad
+- Toilet
+- Water
+- Money
+- More
+- Less
+- Too much
+- Yummy
+- Beautiful
+- Broken
+- Dangerous
+- Available
+- Stop
+- one
+- two
+- three
+- four
+- five
+- six
+- seven
+- eight
+- nine
+- ten
+- eleven
+- twleve
+- thirteen
+- fourteen
+- fifteen
+- nineteen
+- twenty
+- thirty
+- forty
+- fifty
+- sixty
+- seventy
+- eighty
+- ninety
+- hundred
+- thousand
