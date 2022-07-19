@@ -6,4 +6,6 @@
 借助免费的Logseq程序的间隔重复功能/算法，帮你用最简单高效的方式掌握新的单词。
 ------
 ## 使用方法
-1.下载并安装免费的logseq程序，（下载链接）[https://github.com/logseq/logseq/releases]
+1.下载并安装免费的logseq程序，下载链接: https://github.com/logseq/logseq/releases 。如果你电脑上已经安装了logseq，则可跳过此步。
+2.下载本repo中你目标语言对应的.md文件，目前提供西班牙语，土耳其语和法语三种语言，后续会根据用户需求逐渐丰富其它语种。
+3. 
