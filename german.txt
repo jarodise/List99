@@ -1,0 +1,99 @@
+- Jawohl
+- nein
+- OK
+- Hallo!
+- Wie geht es Ihnen?
+- Es geht mir gut.
+- Danke!
+- Gern geschehen.
+- Auf Wiedersehen!
+- Es tut uns leid!
+- Wo ist es?
+- Wie viel kostet das?
+- Haben Sie das?
+- Wer?
+- etwas
+- Ja wirklich
+- kann sein
+- Was ist das?
+- Wieso den?
+- nichts
+- lass uns gehen
+- Wie spät ist es?
+- Ich heiße
+- ich komme aus
+- Ich verstehe nicht.
+- Ich muss.
+- Ich mag
+- Ich will
+- Ich habe
+- Dies
+- und
+- das
+- hier
+- dort
+- bitte
+- gut
+- besser
+- Großartig
+- Schlecht
+- Toilette
+- Papier
+- Stift
+- Wasser
+- Lebensmittel
+- Milch
+- Frühstück
+- Restaurant
+- Hotel
+- Krankenhaus
+- Geld
+- mehr
+- weniger
+- zu viel
+- groß
+- klein
+- lecker
+- jetzt
+- Minute
+- Tag
+- Monat
+- Jahr
+- schön
+- gebrochen
+- gefährlich
+- verfügbar
+- Zimmer
+- Arbeit
+- schnell
+- langsam
+- Pause
+- Null
+- halb
+- eines
+- zwei
+- drei
+- vier
+- fünf
+- sechs
+- Sieben
+- acht
+- neun
+- zehn
+- elf
+- zwölf
+- dreizehn
+- vierzehn
+- fünfzehn
+- neunzehn
+- zwanzig
+- dreißig
+- vierzig
+- fünfzig
+- sechzig
+- siebzig
+- achtzig
+- neunzig
+- hundert
+- fünfhundert
+- tausend

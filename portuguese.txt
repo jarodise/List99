@@ -1,0 +1,99 @@
+- sim
+- não
+- OK
+- Olá!
+- Como você está?
+- Estou bem.
+- Obrigada!
+- Você é bem vindo.
+- Adeus!
+- Desculpe!
+- Cadê?
+- Quanto isso custa?
+- Você tem isso?
+- Quem?
+- algo
+- verdade
+- pode ser
+- O que é isto?
+- Por quê?
+- nada
+- vamos
+- Que horas são?
+- Meu nome é
+- eu sou de
+- Eu não entendi.
+- Eu tenho que.
+- Eu gosto
+- Eu quero
+- Eu tenho
+- isto
+- e
+- este
+- aqui
+- lá
+- por favor
+- Boa
+- Melhor
+- excelente
+- mau
+- banheiro
+- papel
+- caneta
+- agua
+- Comida
+- leite
+- café da manhã
+- restaurante
+- hotel
+- hospital
+- dinheiro
+- mais
+- menos
+- muito
+- grande
+- pequena
+- gostoso
+- agora
+- minuto
+- dia
+- mês
+- ano
+- lindo
+- quebrado
+- perigoso
+- acessível
+- quarto
+- trabalhar
+- velozes
+- lento
+- Pare
+- zero
+- metade
+- 1
+- dois
+- três
+- quatro
+- cinco
+- seis
+- Sete
+- oito
+- nove
+- dez
+- onze
+- doze
+- treze
+- quatorze
+- quinze
+- dezenove
+- vinte
+- trinta
+- quarenta
+- cinquenta
+- sessenta
+- setenta
+- oitenta
+- noventa
+- centenas
+- quinhentos
+- mil

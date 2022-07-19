@@ -1,0 +1,200 @@
+## {{cards [[english-portuguese]]}}
+
+- yes #card #english-portuguese
+  - sim
+- no #card #english-portuguese
+  - não
+- Ok #card #english-portuguese
+  - OK
+- Hello! #card #english-portuguese
+  - Olá!
+- How are you doing? #card #english-portuguese
+  - Como você está?
+- I'm fine. #card #english-portuguese
+  - Estou bem.
+- Thank You! #card #english-portuguese
+  - Obrigada!
+- You are welcome. #card #english-portuguese
+  - Você é bem vindo.
+- Goodbye! #card #english-portuguese
+  - Adeus!
+- Sorry! #card #english-portuguese
+  - Desculpe!
+- Where is it? #card #english-portuguese
+  - Cadê?
+- How much is it? #card #english-portuguese
+  - Quanto isso custa?
+- Do you have this? #card #english-portuguese
+  - Você tem isso?
+- Who? #card #english-portuguese
+  - Quem?
+- something #card #english-portuguese
+  - algo
+- really #card #english-portuguese
+  - verdade
+- maybe #card #english-portuguese
+  - pode ser
+- What is this? #card #english-portuguese
+  - O que é isto?
+- Why? #card #english-portuguese
+  - Por quê?
+- nothing #card #english-portuguese
+  - nada
+- let's go #card #english-portuguese
+  - vamos
+- What time is it? #card #english-portuguese
+  - Que horas são?
+- My name is #card #english-portuguese
+  - Meu nome é
+- I'm from #card #english-portuguese
+  - eu sou de
+- I do not understand. #card #english-portuguese
+  - Eu não entendi.
+- I have to. #card #english-portuguese
+  - Eu tenho que.
+- I like #card #english-portuguese
+  - Eu gosto
+- I want #card #english-portuguese
+  - Eu quero
+- I have #card #english-portuguese
+  - Eu tenho
+- this #card #english-portuguese
+  - isto
+- and #card #english-portuguese
+  - e
+- that #card #english-portuguese
+  - este
+- here #card #english-portuguese
+  - aqui
+- there #card #english-portuguese
+  - lá
+- please #card #english-portuguese
+  - por favor
+- good #card #english-portuguese
+  - Boa
+- better #card #english-portuguese
+  - Melhor
+- great #card #english-portuguese
+  - excelente
+- bad #card #english-portuguese
+  - mau
+- toilet #card #english-portuguese
+  - banheiro
+- paper #card #english-portuguese
+  - papel
+- pen #card #english-portuguese
+  - caneta
+- water #card #english-portuguese
+  - agua
+- food #card #english-portuguese
+  - Comida
+- milk #card #english-portuguese
+  - leite
+- breakfast #card #english-portuguese
+  - café da manhã
+- restaurant #card #english-portuguese
+  - restaurante
+- hotel #card #english-portuguese
+  - hotel
+- hospital #card #english-portuguese
+  - hospital
+- money #card #english-portuguese
+  - dinheiro
+- more #card #english-portuguese
+  - mais
+- less #card #english-portuguese
+  - menos
+- too much #card #english-portuguese
+  - muito
+- big #card #english-portuguese
+  - grande
+- small #card #english-portuguese
+  - pequena
+- yummy #card #english-portuguese
+  - gostoso
+- now #card #english-portuguese
+  - agora
+- minute #card #english-portuguese
+  - minuto
+- day #card #english-portuguese
+  - dia
+- month #card #english-portuguese
+  - mês
+- year #card #english-portuguese
+  - ano
+- beautiful #card #english-portuguese
+  - lindo
+- broken #card #english-portuguese
+  - quebrado
+- dangerous #card #english-portuguese
+  - perigoso
+- available #card #english-portuguese
+  - acessível
+- room #card #english-portuguese
+  - quarto
+- work #card #english-portuguese
+  - trabalhar
+- fast #card #english-portuguese
+  - velozes
+- slow #card #english-portuguese
+  - lento
+- stop #card #english-portuguese
+  - Pare
+- zero #card #english-portuguese
+  - zero
+- half #card #english-portuguese
+  - metade
+- one #card #english-portuguese
+  - 1
+- two #card #english-portuguese
+  - dois
+- three #card #english-portuguese
+  - três
+- four #card #english-portuguese
+  - quatro
+- five #card #english-portuguese
+  - cinco
+- six #card #english-portuguese
+  - seis
+- seven #card #english-portuguese
+  - Sete
+- eight #card #english-portuguese
+  - oito
+- nine #card #english-portuguese
+  - nove
+- ten #card #english-portuguese
+  - dez
+- eleven #card #english-portuguese
+  - onze
+- twleve #card #english-portuguese
+  - doze
+- thirteen #card #english-portuguese
+  - treze
+- fourteen #card #english-portuguese
+  - quatorze
+- fifteen #card #english-portuguese
+  - quinze
+- nineteen #card #english-portuguese
+  - dezenove
+- twenty #card #english-portuguese
+  - vinte
+- thirty #card #english-portuguese
+  - trinta
+- forty #card #english-portuguese
+  - quarenta
+- fifty #card #english-portuguese
+  - cinquenta
+- sixty #card #english-portuguese
+  - sessenta
+- seventy #card #english-portuguese
+  - setenta
+- eighty #card #english-portuguese
+  - oitenta
+- ninety #card #english-portuguese
+  - noventa
+- hundred #card #english-portuguese
+  - centenas
+- five hundred #card #english-portuguese
+  - quinhentos
+- thousand #card #english-portuguese
+  - mil

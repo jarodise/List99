@@ -13,32 +13,32 @@ with open('list.txt', 'r') as f:
 print(english)
 # 创建翻译目标
 translator = Translator()
-polish = translator.translate(english, dest="pl")
-polish = str(polish.text)
+portuguese = translator.translate(english, dest="pt")
+portuguese = str(portuguese.text)
 # 将翻译结果写入txt文件
-f = open("polish.txt","w+")
-f.writelines(polish)
+f = open("portuguese.txt","w+")
+f.writelines(portuguese)
 f.close()
-with open('polish.txt', 'r') as f:
+with open('portuguese.txt', 'r') as f:
     lines = f.readlines()
     lines = ['- ' + line for line in lines]
-    with open('polish.txt', 'w') as f:
+    with open('portuguese.txt', 'w') as f:
         f.writelines(lines)
         f.close()
 #组合两个语言到一个语言#
-with open('english.txt') as f1, open('polish.txt') as f2, open('初来乍到99单词表-english-polish.txt', 'w') as out:
+with open('english.txt') as f1, open('portuguese.txt') as f2, open('初来乍到99单词表-english-portuguese.txt', 'w') as out:
     for line1, line2 in zip(f1, f2):
-        print(line1.rstrip(), " #card #english-polish", sep='', file=out)
+        print(line1.rstrip(), " #card #english-portuguese", sep='', file=out)
         out.write('  ')
         out.write(line2)  
 #在文件顶部添加card query
-cards_query = '## {{cards [[english-polish]]}}\n\n'
+cards_query = '## {{cards [[english-portuguese]]}}\n\n'
 
-with open('初来乍到99单词表-english-polish.txt', 'r+') as file:
+with open('初来乍到99单词表-english-portuguese.txt', 'r+') as file:
    content = file.read()
    file.seek(0)
    file.write(cards_query + content)
    file.close
 # 将txt文件转换成markdown文件   
 import shutil     
-shutil.copyfile("初来乍到99单词表-english-polish.txt", "初来乍到99单词表-english-polish.md")  
+shutil.copyfile("初来乍到99单词表-english-portuguese.txt", "初来乍到99单词表-english-portuguese.md")  

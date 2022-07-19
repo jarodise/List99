@@ -1,0 +1,200 @@
+## {{cards [[english-german]]}}
+
+- yes #card #english-german
+  - Jawohl
+- no #card #english-german
+  - nein
+- Ok #card #english-german
+  - OK
+- Hello! #card #english-german
+  - Hallo!
+- How are you doing? #card #english-german
+  - Wie geht es Ihnen?
+- I'm fine. #card #english-german
+  - Es geht mir gut.
+- Thank You! #card #english-german
+  - Danke!
+- You are welcome. #card #english-german
+  - Gern geschehen.
+- Goodbye! #card #english-german
+  - Auf Wiedersehen!
+- Sorry! #card #english-german
+  - Es tut uns leid!
+- Where is it? #card #english-german
+  - Wo ist es?
+- How much is it? #card #english-german
+  - Wie viel kostet das?
+- Do you have this? #card #english-german
+  - Haben Sie das?
+- Who? #card #english-german
+  - Wer?
+- something #card #english-german
+  - etwas
+- really #card #english-german
+  - Ja wirklich
+- maybe #card #english-german
+  - kann sein
+- What is this? #card #english-german
+  - Was ist das?
+- Why? #card #english-german
+  - Wieso den?
+- nothing #card #english-german
+  - nichts
+- let's go #card #english-german
+  - lass uns gehen
+- What time is it? #card #english-german
+  - Wie spät ist es?
+- My name is #card #english-german
+  - Ich heiße
+- I'm from #card #english-german
+  - ich komme aus
+- I do not understand. #card #english-german
+  - Ich verstehe nicht.
+- I have to. #card #english-german
+  - Ich muss.
+- I like #card #english-german
+  - Ich mag
+- I want #card #english-german
+  - Ich will
+- I have #card #english-german
+  - Ich habe
+- this #card #english-german
+  - Dies
+- and #card #english-german
+  - und
+- that #card #english-german
+  - das
+- here #card #english-german
+  - hier
+- there #card #english-german
+  - dort
+- please #card #english-german
+  - bitte
+- good #card #english-german
+  - gut
+- better #card #english-german
+  - besser
+- great #card #english-german
+  - Großartig
+- bad #card #english-german
+  - Schlecht
+- toilet #card #english-german
+  - Toilette
+- paper #card #english-german
+  - Papier
+- pen #card #english-german
+  - Stift
+- water #card #english-german
+  - Wasser
+- food #card #english-german
+  - Lebensmittel
+- milk #card #english-german
+  - Milch
+- breakfast #card #english-german
+  - Frühstück
+- restaurant #card #english-german
+  - Restaurant
+- hotel #card #english-german
+  - Hotel
+- hospital #card #english-german
+  - Krankenhaus
+- money #card #english-german
+  - Geld
+- more #card #english-german
+  - mehr
+- less #card #english-german
+  - weniger
+- too much #card #english-german
+  - zu viel
+- big #card #english-german
+  - groß
+- small #card #english-german
+  - klein
+- yummy #card #english-german
+  - lecker
+- now #card #english-german
+  - jetzt
+- minute #card #english-german
+  - Minute
+- day #card #english-german
+  - Tag
+- month #card #english-german
+  - Monat
+- year #card #english-german
+  - Jahr
+- beautiful #card #english-german
+  - schön
+- broken #card #english-german
+  - gebrochen
+- dangerous #card #english-german
+  - gefährlich
+- available #card #english-german
+  - verfügbar
+- room #card #english-german
+  - Zimmer
+- work #card #english-german
+  - Arbeit
+- fast #card #english-german
+  - schnell
+- slow #card #english-german
+  - langsam
+- stop #card #english-german
+  - Pause
+- zero #card #english-german
+  - Null
+- half #card #english-german
+  - halb
+- one #card #english-german
+  - eines
+- two #card #english-german
+  - zwei
+- three #card #english-german
+  - drei
+- four #card #english-german
+  - vier
+- five #card #english-german
+  - fünf
+- six #card #english-german
+  - sechs
+- seven #card #english-german
+  - Sieben
+- eight #card #english-german
+  - acht
+- nine #card #english-german
+  - neun
+- ten #card #english-german
+  - zehn
+- eleven #card #english-german
+  - elf
+- twleve #card #english-german
+  - zwölf
+- thirteen #card #english-german
+  - dreizehn
+- fourteen #card #english-german
+  - vierzehn
+- fifteen #card #english-german
+  - fünfzehn
+- nineteen #card #english-german
+  - neunzehn
+- twenty #card #english-german
+  - zwanzig
+- thirty #card #english-german
+  - dreißig
+- forty #card #english-german
+  - vierzig
+- fifty #card #english-german
+  - fünfzig
+- sixty #card #english-german
+  - sechzig
+- seventy #card #english-german
+  - siebzig
+- eighty #card #english-german
+  - achtzig
+- ninety #card #english-german
+  - neunzig
+- hundred #card #english-german
+  - hundert
+- five hundred #card #english-german
+  - fünfhundert
+- thousand #card #english-german
+  - tausend
