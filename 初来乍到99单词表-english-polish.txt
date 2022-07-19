@@ -1,0 +1,200 @@
+## {{cards [[english-polish]]}}
+
+- yes #card #english-polish
+  - tak
+- no #card #english-polish
+  - nie
+- Ok #card #english-polish
+  - Ok
+- Hello! #card #english-polish
+  - Dzień dobry !
+- How are you doing? #card #english-polish
+  - Jak się masz?
+- I'm fine. #card #english-polish
+  - dobrze.
+- Thank You! #card #english-polish
+  - Dziękuję!
+- You are welcome. #card #english-polish
+  - Zapraszamy.
+- Goodbye! #card #english-polish
+  - Do widzenia!
+- Sorry! #card #english-polish
+  - Przepraszam!
+- Where is it? #card #english-polish
+  - Gdzie to jest?
+- How much is it? #card #english-polish
+  - Ile to kosztuje?
+- Do you have this? #card #english-polish
+  - Masz to?
+- Who? #card #english-polish
+  - Kto?
+- something #card #english-polish
+  - coś
+- really #card #english-polish
+  - naprawdę
+- maybe #card #english-polish
+  - być może
+- What is this? #card #english-polish
+  - Co to jest?
+- Why? #card #english-polish
+  - Czemu?
+- nothing #card #english-polish
+  - nic
+- let's go #card #english-polish
+  - chodźmy
+- What time is it? #card #english-polish
+  - Która godzina?
+- My name is #card #english-polish
+  - Nazywam się
+- I'm from #card #english-polish
+  - jestem z
+- I do not understand. #card #english-polish
+  - Nie rozumiem.
+- I have to. #card #english-polish
+  - Muszę.
+- I like #card #english-polish
+  - lubię
+- I want #card #english-polish
+  - Chcę
+- I have #card #english-polish
+  - Mam
+- this #card #english-polish
+  - ten
+- and #card #english-polish
+  - oraz
+- that #card #english-polish
+  - że
+- here #card #english-polish
+  - tutaj
+- there #card #english-polish
+  - tam
+- please #card #english-polish
+  - Proszę
+- good #card #english-polish
+  - Dobry
+- better #card #english-polish
+  - lepiej
+- great #card #english-polish
+  - Świetnie
+- bad #card #english-polish
+  - zły
+- toilet #card #english-polish
+  - toaleta
+- paper #card #english-polish
+  - papier
+- pen #card #english-polish
+  - długopis
+- water #card #english-polish
+  - woda
+- food #card #english-polish
+  - jedzenie
+- milk #card #english-polish
+  - mleko
+- breakfast #card #english-polish
+  - śniadanie
+- restaurant #card #english-polish
+  - restauracja
+- hotel #card #english-polish
+  - hotel
+- hospital #card #english-polish
+  - szpital
+- money #card #english-polish
+  - pieniądze
+- more #card #english-polish
+  - jeszcze
+- less #card #english-polish
+  - mniej
+- too much #card #english-polish
+  - zbyt wiele
+- big #card #english-polish
+  - duża
+- small #card #english-polish
+  - mały
+- yummy #card #english-polish
+  - pyszny
+- now #card #english-polish
+  - Teraz
+- minute #card #english-polish
+  - minuta
+- day #card #english-polish
+  - dzień
+- month #card #english-polish
+  - miesiąc
+- year #card #english-polish
+  - rok
+- beautiful #card #english-polish
+  - piękny
+- broken #card #english-polish
+  - złamany
+- dangerous #card #english-polish
+  - niebezpieczny
+- available #card #english-polish
+  - do dyspozycji
+- room #card #english-polish
+  - Pokój
+- work #card #english-polish
+  - praca
+- fast #card #english-polish
+  - szybki
+- slow #card #english-polish
+  - wolny
+- stop #card #english-polish
+  - Zatrzymaj się
+- zero #card #english-polish
+  - zero
+- half #card #english-polish
+  - połowa
+- one #card #english-polish
+  - jeden
+- two #card #english-polish
+  - dwa
+- three #card #english-polish
+  - trzy
+- four #card #english-polish
+  - cztery
+- five #card #english-polish
+  - pięć
+- six #card #english-polish
+  - sześć
+- seven #card #english-polish
+  - siedem
+- eight #card #english-polish
+  - osiem
+- nine #card #english-polish
+  - dziewięć
+- ten #card #english-polish
+  - dziesięć
+- eleven #card #english-polish
+  - jedenaście
+- twleve #card #english-polish
+  - dwanaście
+- thirteen #card #english-polish
+  - trzynaście
+- fourteen #card #english-polish
+  - czternaście
+- fifteen #card #english-polish
+  - piętnaście
+- nineteen #card #english-polish
+  - dziewiętnaście
+- twenty #card #english-polish
+  - 20
+- thirty #card #english-polish
+  - trzydzieści
+- forty #card #english-polish
+  - czterdzieści
+- fifty #card #english-polish
+  - pięćdziesiąt
+- sixty #card #english-polish
+  - sześćdziesiąt
+- seventy #card #english-polish
+  - siedemdziesiąt
+- eighty #card #english-polish
+  - osiemdziesiąt
+- ninety #card #english-polish
+  - dziewięćdziesiąt
+- hundred #card #english-polish
+  - sto
+- five hundred #card #english-polish
+  - pięćset
+- thousand #card #english-polish
+  - tysiąc

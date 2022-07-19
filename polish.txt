@@ -1,0 +1,99 @@
+- tak
+- nie
+- Ok
+- Witam!
+- Jak się masz?
+- Jestem w porządku.
+- Dziękuję!
+- Zapraszamy.
+- Do widzenia!
+- Przepraszam!
+- Gdzie to jest?
+- Ile to kosztuje?
+- Masz to?
+- Kto?
+- coś
+- naprawdę
+- być może
+- Co to jest?
+- Czemu?
+- nic
+- chodźmy
+- Która godzina?
+- Nazywam się
+- jestem z
+- Nie rozumiem.
+- Muszę.
+- lubię
+- Chcę
+- Mam
+- ten
+- oraz
+- że
+- tutaj
+- tam
+- Proszę
+- Dobry
+- lepiej
+- Świetnie
+- zły
+- toaleta
+- papier
+- długopis
+- woda
+- jedzenie
+- mleko
+- śniadanie
+- restauracja
+- hotel
+- szpital
+- pieniądze
+- jeszcze
+- mniej
+- zbyt wiele
+- duża
+- mały
+- pyszny
+- Teraz
+- minuta
+- dzień
+- miesiąc
+- rok
+- piękny
+- złamany
+- niebezpieczny
+- do dyspozycji
+- Pokój
+- praca
+- szybki
+- wolny
+- Zatrzymaj się
+- zero
+- połowa
+- jeden
+- dwa
+- trzy
+- cztery
+- pięć
+- sześć
+- siedem
+- osiem
+- dziewięć
+- dziesięć
+- jedenaście
+- dwanaście
+- trzynaście
+- czternaście
+- piętnaście
+- dziewiętnaście
+- 20
+- trzydzieści
+- czterdzieści
+- pięćdziesiąt
+- sześćdziesiąt
+- siedemdziesiąt
+- osiemdziesiąt
+- dziewięćdziesiąt
+- sto
+- pięćset
+- tysiąc
