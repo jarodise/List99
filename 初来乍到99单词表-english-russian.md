@@ -1,0 +1,200 @@
+## {{cards [[english-russian]]}}
+
+- yes #card #english-russian
+  - да
+- no #card #english-russian
+  - нет
+- Ok #card #english-russian
+  - Ok
+- Hello! #card #english-russian
+  - Привет!
+- How are you doing? #card #english-russian
+  - Как поживаешь?
+- I'm fine. #card #english-russian
+  - Я в порядке.
+- Thank You! #card #english-russian
+  - Спасибо!
+- You are welcome. #card #english-russian
+  - Пожалуйста.
+- Goodbye! #card #english-russian
+  - Прощай!
+- Sorry! #card #english-russian
+  - Извиняюсь!
+- Where is it? #card #english-russian
+  - Где это находится?
+- How much is it? #card #english-russian
+  - Сколько это стоит?
+- Do you have this? #card #english-russian
+  - У тебя это есть?
+- Who? #card #english-russian
+  - Кто?
+- something #card #english-russian
+  - что-нибудь
+- really #card #english-russian
+  - В самом деле
+- maybe #card #english-russian
+  - может быть
+- What is this? #card #english-russian
+  - Что это?
+- Why? #card #english-russian
+  - Почему?
+- nothing #card #english-russian
+  - ничего такого
+- let's go #card #english-russian
+  - Пошли
+- What time is it? #card #english-russian
+  - Который сейчас час?
+- My name is #card #english-russian
+  - Меня зовут
+- I'm from #card #english-russian
+  - я из
+- I do not understand. #card #english-russian
+  - Я не понимаю.
+- I have to. #card #english-russian
+  - Я должен.
+- I like #card #english-russian
+  - Мне нравится
+- I want #card #english-russian
+  - Я хочу
+- I have #card #english-russian
+  - У меня есть
+- this #card #english-russian
+  - это
+- and #card #english-russian
+  - а также
+- that #card #english-russian
+  - что
+- here #card #english-russian
+  - здесь
+- there #card #english-russian
+  - там
+- please #card #english-russian
+  - пожалуйста
+- good #card #english-russian
+  - хороший
+- better #card #english-russian
+  - лучше
+- great #card #english-russian
+  - большой
+- bad #card #english-russian
+  - Плохо
+- toilet #card #english-russian
+  - туалет
+- paper #card #english-russian
+  - бумага
+- pen #card #english-russian
+  - ручка
+- water #card #english-russian
+  - вода
+- food #card #english-russian
+  - еда
+- milk #card #english-russian
+  - молоко
+- breakfast #card #english-russian
+  - завтрак
+- restaurant #card #english-russian
+  - ресторан
+- hotel #card #english-russian
+  - отель
+- hospital #card #english-russian
+  - больница
+- money #card #english-russian
+  - Деньги
+- more #card #english-russian
+  - более
+- less #card #english-russian
+  - меньше
+- too much #card #english-russian
+  - слишком много
+- big #card #english-russian
+  - большой
+- small #card #english-russian
+  - маленький
+- yummy #card #english-russian
+  - вкуснятина
+- now #card #english-russian
+  - в настоящее время
+- minute #card #english-russian
+  - минута
+- day #card #english-russian
+  - день
+- month #card #english-russian
+  - месяц
+- year #card #english-russian
+  - год
+- beautiful #card #english-russian
+  - красивая
+- broken #card #english-russian
+  - сломанный
+- dangerous #card #english-russian
+  - опасный
+- available #card #english-russian
+  - доступный
+- room #card #english-russian
+  - номер
+- work #card #english-russian
+  - Работа
+- fast #card #english-russian
+  - быстро
+- slow #card #english-russian
+  - медленный
+- stop #card #english-russian
+  - остановка
+- zero #card #english-russian
+  - нуль
+- half #card #english-russian
+  - половина
+- one #card #english-russian
+  - один
+- two #card #english-russian
+  - два
+- three #card #english-russian
+  - три
+- four #card #english-russian
+  - четыре
+- five #card #english-russian
+  - пять
+- six #card #english-russian
+  - шесть
+- seven #card #english-russian
+  - Семь
+- eight #card #english-russian
+  - восемь
+- nine #card #english-russian
+  - девять
+- ten #card #english-russian
+  - 10
+- eleven #card #english-russian
+  - одиннадцать
+- twleve #card #english-russian
+  - двенадцать
+- thirteen #card #english-russian
+  - тринадцать
+- fourteen #card #english-russian
+  - четырнадцать
+- fifteen #card #english-russian
+  - пятнадцать
+- nineteen #card #english-russian
+  - 19
+- twenty #card #english-russian
+  - 20
+- thirty #card #english-russian
+  - тридцать
+- forty #card #english-russian
+  - сорок
+- fifty #card #english-russian
+  - 50
+- sixty #card #english-russian
+  - шестьдесят
+- seventy #card #english-russian
+  - семьдесят
+- eighty #card #english-russian
+  - восемьдесят
+- ninety #card #english-russian
+  - девяносто
+- hundred #card #english-russian
+  - сто
+- five hundred #card #english-russian
+  - пятьсот
+- thousand #card #english-russian
+  - тысяча
