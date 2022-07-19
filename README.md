@@ -9,7 +9,7 @@
 1. 下载并安装免费的logseq程序，下载链接: https://github.com/logseq/logseq/releases 。如果你电脑上已经安装了logseq，则可跳过此步。
 2. 下载本repo中你目标语言对应的.md文件，目前提供西班牙语，土耳其语,波兰语和法语四种语言，后续会根据用户需求逐渐丰富其它语种。
 3. 将下载到本地的.md文件拖拽到你的logseq文件库的pages文件夹下。
-4. 在logse其中搜索"初来乍到99"定位并打开此文件。
+4. 启动logseq，在其中搜索"初来乍到99"定位并打开此文件。
 5. 点击『Review cards』按钮开始学习。
 
 ![CleanShot 2022-07-19 at 12 10 48@2x](https://user-images.githubusercontent.com/15899808/179713403-4ed4ce89-36e4-4405-84ad-02233033b56e.png)
