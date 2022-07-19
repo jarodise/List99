@@ -1,0 +1,99 @@
+- oui
+- non
+- D'accord
+- Bonjour!
+- Comment vas-tu?
+- Je vais bien.
+- Merci!
+- Je vous en prie.
+- Au revoir!
+- Pardon!
+- Où est-il?
+- Combien ça coûte?
+- Avez-vous ce?
+- Qui?
+- quelque chose
+- vraiment
+- peut être
+- Qu'est-ce que c'est?
+- Pourquoi?
+- rien
+- allons-y
+- Quelle heure est-il?
+- Mon nom est
+- je viens de
+- Je ne comprends pas.
+- Je dois.
+- j'aime
+- je veux
+- j'ai
+- cette
+- et
+- ce
+- ici
+- là
+- s'il vous plaît
+- bien
+- meilleur
+- génial
+- mal
+- toilette
+- papier
+- stylo
+- l'eau
+- aliments
+- Le Lait
+- petit-déjeuner
+- restaurant
+- Hôtel
+- hôpital
+- argent
+- Suite
+- moins
+- trop
+- gros
+- petit
+- délicieux
+- à présent
+- minute
+- journée
+- mois
+- an
+- belle
+- cassé
+- dangereux
+- disponible
+- chambre
+- travailler
+- vite
+- lent
+- arrêt
+- zéro
+- demi
+- une
+- deux
+- Trois
+- quatre
+- cinq
+- six
+- Sept
+- huit
+- neuf
+- Dix
+- Onze
+- douze
+- treize
+- Quatorze
+- quinze
+- dix-neuf
+- vingt
+- trente
+- quarante
+- cinquante
+- soixante
+- soixante-dix
+- quatre-vingt
+- quatre-vingt-dix
+- cent
+- cinq cents
+- mille

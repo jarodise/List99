@@ -1,6 +1,6 @@
-- Yes
-- No
-- OK
+- yes
+- no
+- Ok
 - Hello!
 - How are you doing?
 - I'm fine.
@@ -11,33 +11,65 @@
 - Where is it?
 - How much is it?
 - Do you have this?
+- Who? 
+- something
+- really
+- maybe
 - What is this?
 - Why?
+- nothing
+- let's go
+- What time is it?
 - My name is
 - I'm from
 - I do not understand.
+- I have to. 
 - I like
 - I want
 - I have
-- This
-- That
-- Here
-- There
-- Please
-- Good
-- Bad
-- Toilet
-- Water
-- Money
-- More
-- Less
-- Too much
-- Yummy
-- Beautiful
-- Broken
-- Dangerous
-- Available
-- Stop
+- this
+- and
+- that
+- here
+- there
+- please
+- good
+- better
+- great
+- bad
+- toilet
+- paper
+- pen
+- water
+- food
+- milk
+- breakfast
+- restaurant
+- hotel
+- hospital
+- money
+- more
+- less
+- too much
+- big
+- small
+- yummy
+- now
+- minute
+- day
+- month
+- year
+- beautiful
+- broken
+- dangerous
+- available
+- room
+- work
+- fast
+- slow
+- stop
+- zero
+- half
 - one
 - two
 - three
@@ -63,4 +95,5 @@
 - eighty
 - ninety
 - hundred
+- five hundred
 - thousand

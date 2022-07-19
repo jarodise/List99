@@ -1,0 +1,99 @@
+- evet
+- hayır
+- Tamam
+- Merhaba!
+- Nasılsın?
+- İyiyim.
+- Teşekkürler!
+- Rica ederim.
+- Güle güle!
+- Afedersiniz!
+- Nerede?
+- Ne kadar?
+- Sende bu var mı?
+- Kim?
+- bir şey
+- Gerçekten
+- belki
+- Bu nedir?
+- Neden? Niye?
+- hiç bir şey
+- Hadi gidelim
+- Saat kaç?
+- Benim ismim
+- ben
+- Anlamıyorum.
+- Mecburum.
+- Severim
+- İstiyorum
+- Sahibim
+- Bu
+- ve
+- o
+- burada
+- orada
+- lütfen
+- iyi
+- daha iyi
+- İyi
+- kötü
+- tuvalet
+- kağıt
+- kalem
+- su
+- Gıda
+- Süt
+- sabah kahvaltısı
+- restoran
+- otel
+- hastane
+- para
+- daha fazla
+- az
+- çok fazla
+- büyük
+- küçük
+- lezzetli
+- şimdi
+- dakika
+- gün
+- ay
+- yıl
+- güzel
+- bozuldu
+- tehlikeli
+- mevcut
+- oda
+- iş
+- hızlı
+- yavaş
+- Dur
+- sıfır
+- yarım
+- bir
+- iki
+- üç
+- dört
+- beş
+- altı
+- Yedi
+- sekiz
+- dokuz
+- on
+- on bir
+- on iki
+- on üç
+- on dört
+- on beş
+- on dokuz
+- yirmi
+- otuz
+- kırk
+- elli
+- altmış
+- yetmiş
+- seksen
+- doksan
+- yüz
+- beş yüz
+- bin

@@ -1,0 +1,200 @@
+## {{cards [[english-french]]}}
+
+- yes #card #english-french
+  - oui
+- no #card #english-french
+  - non
+- Ok #card #english-french
+  - D'accord
+- Hello! #card #english-french
+  - Bonjour!
+- How are you doing? #card #english-french
+  - Comment vas-tu?
+- I'm fine. #card #english-french
+  - Je vais bien.
+- Thank You! #card #english-french
+  - Merci!
+- You are welcome. #card #english-french
+  - Je vous en prie.
+- Goodbye! #card #english-french
+  - Au revoir!
+- Sorry! #card #english-french
+  - Pardon!
+- Where is it? #card #english-french
+  - Où est-il?
+- How much is it? #card #english-french
+  - Combien ça coûte?
+- Do you have this? #card #english-french
+  - Avez-vous ce?
+- Who? #card #english-french
+  - Qui?
+- something #card #english-french
+  - quelque chose
+- really #card #english-french
+  - vraiment
+- maybe #card #english-french
+  - peut être
+- What is this? #card #english-french
+  - Qu'est-ce que c'est?
+- Why? #card #english-french
+  - Pourquoi?
+- nothing #card #english-french
+  - rien
+- let's go #card #english-french
+  - allons-y
+- What time is it? #card #english-french
+  - Quelle heure est-il?
+- My name is #card #english-french
+  - Mon nom est
+- I'm from #card #english-french
+  - je viens de
+- I do not understand. #card #english-french
+  - Je ne comprends pas.
+- I have to. #card #english-french
+  - Je dois.
+- I like #card #english-french
+  - j'aime
+- I want #card #english-french
+  - je veux
+- I have #card #english-french
+  - j'ai
+- this #card #english-french
+  - cette
+- and #card #english-french
+  - et
+- that #card #english-french
+  - ce
+- here #card #english-french
+  - ici
+- there #card #english-french
+  - là
+- please #card #english-french
+  - s'il vous plaît
+- good #card #english-french
+  - bien
+- better #card #english-french
+  - meilleur
+- great #card #english-french
+  - génial
+- bad #card #english-french
+  - mal
+- toilet #card #english-french
+  - toilette
+- paper #card #english-french
+  - papier
+- pen #card #english-french
+  - stylo
+- water #card #english-french
+  - l'eau
+- food #card #english-french
+  - aliments
+- milk #card #english-french
+  - Le Lait
+- breakfast #card #english-french
+  - petit-déjeuner
+- restaurant #card #english-french
+  - restaurant
+- hotel #card #english-french
+  - Hôtel
+- hospital #card #english-french
+  - hôpital
+- money #card #english-french
+  - argent
+- more #card #english-french
+  - Suite
+- less #card #english-french
+  - moins
+- too much #card #english-french
+  - trop
+- big #card #english-french
+  - gros
+- small #card #english-french
+  - petit
+- yummy #card #english-french
+  - délicieux
+- now #card #english-french
+  - à présent
+- minute #card #english-french
+  - minute
+- day #card #english-french
+  - journée
+- month #card #english-french
+  - mois
+- year #card #english-french
+  - an
+- beautiful #card #english-french
+  - belle
+- broken #card #english-french
+  - cassé
+- dangerous #card #english-french
+  - dangereux
+- available #card #english-french
+  - disponible
+- room #card #english-french
+  - chambre
+- work #card #english-french
+  - travailler
+- fast #card #english-french
+  - vite
+- slow #card #english-french
+  - lent
+- stop #card #english-french
+  - arrêt
+- zero #card #english-french
+  - zéro
+- half #card #english-french
+  - demi
+- one #card #english-french
+  - une
+- two #card #english-french
+  - deux
+- three #card #english-french
+  - Trois
+- four #card #english-french
+  - quatre
+- five #card #english-french
+  - cinq
+- six #card #english-french
+  - six
+- seven #card #english-french
+  - Sept
+- eight #card #english-french
+  - huit
+- nine #card #english-french
+  - neuf
+- ten #card #english-french
+  - Dix
+- eleven #card #english-french
+  - Onze
+- twleve #card #english-french
+  - douze
+- thirteen #card #english-french
+  - treize
+- fourteen #card #english-french
+  - Quatorze
+- fifteen #card #english-french
+  - quinze
+- nineteen #card #english-french
+  - dix-neuf
+- twenty #card #english-french
+  - vingt
+- thirty #card #english-french
+  - trente
+- forty #card #english-french
+  - quarante
+- fifty #card #english-french
+  - cinquante
+- sixty #card #english-french
+  - soixante
+- seventy #card #english-french
+  - soixante-dix
+- eighty #card #english-french
+  - quatre-vingt
+- ninety #card #english-french
+  - quatre-vingt-dix
+- hundred #card #english-french
+  - cent
+- five hundred #card #english-french
+  - cinq cents
+- thousand #card #english-french
+  - mille

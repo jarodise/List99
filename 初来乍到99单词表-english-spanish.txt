@@ -1,0 +1,200 @@
+## {{cards [[english-spanish]]}}
+
+- yes #card #english-spanish
+  - sí
+- no #card #english-spanish
+  - no
+- Ok #card #english-spanish
+  - OK
+- Hello! #card #english-spanish
+  - ¡Hola!
+- How are you doing? #card #english-spanish
+  - ¿Como estas?
+- I'm fine. #card #english-spanish
+  - Estoy bien.
+- Thank You! #card #english-spanish
+  - ¡Gracias!
+- You are welcome. #card #english-spanish
+  - De nada.
+- Goodbye! #card #english-spanish
+  - ¡Adiós!
+- Sorry! #card #english-spanish
+  - ¡Lo siento!
+- Where is it? #card #english-spanish
+  - ¿Dónde está?
+- How much is it? #card #english-spanish
+  - ¿Cuánto cuesta?
+- Do you have this? #card #english-spanish
+  - ¿Tienes esto?
+- Who? #card #english-spanish
+  - ¿Quién?
+- something #card #english-spanish
+  - alguna cosa
+- really #card #english-spanish
+  - De Verdad
+- maybe #card #english-spanish
+  - quizás
+- What is this? #card #english-spanish
+  - ¿Qué es esto?
+- Why? #card #english-spanish
+  - ¿Por qué?
+- nothing #card #english-spanish
+  - nada
+- let's go #card #english-spanish
+  - vamos
+- What time is it? #card #english-spanish
+  - ¿Qué hora es?
+- My name is #card #english-spanish
+  - Me llamo
+- I'm from #card #english-spanish
+  - Soy de
+- I do not understand. #card #english-spanish
+  - No entiendo.
+- I have to. #card #english-spanish
+  - Tengo que.
+- I like #card #english-spanish
+  - me gusta
+- I want #card #english-spanish
+  - Quiero
+- I have #card #english-spanish
+  - tengo
+- this #card #english-spanish
+  - este
+- and #card #english-spanish
+  - y
+- that #card #english-spanish
+  - que
+- here #card #english-spanish
+  - aquí
+- there #card #english-spanish
+  - allá
+- please #card #english-spanish
+  - por favor
+- good #card #english-spanish
+  - bueno
+- better #card #english-spanish
+  - mejor
+- great #card #english-spanish
+  - estupendo
+- bad #card #english-spanish
+  - malo
+- toilet #card #english-spanish
+  - inodoro
+- paper #card #english-spanish
+  - papel
+- pen #card #english-spanish
+  - lápiz
+- water #card #english-spanish
+  - agua
+- food #card #english-spanish
+  - alimento
+- milk #card #english-spanish
+  - Leche
+- breakfast #card #english-spanish
+  - desayuno
+- restaurant #card #english-spanish
+  - restaurante
+- hotel #card #english-spanish
+  - hotel
+- hospital #card #english-spanish
+  - hospital
+- money #card #english-spanish
+  - dinero
+- more #card #english-spanish
+  - más
+- less #card #english-spanish
+  - menos
+- too much #card #english-spanish
+  - demasiado
+- big #card #english-spanish
+  - grande
+- small #card #english-spanish
+  - pequeña
+- yummy #card #english-spanish
+  - delicioso
+- now #card #english-spanish
+  - ahora
+- minute #card #english-spanish
+  - minuto
+- day #card #english-spanish
+  - día
+- month #card #english-spanish
+  - mes
+- year #card #english-spanish
+  - año
+- beautiful #card #english-spanish
+  - hermoso
+- broken #card #english-spanish
+  - roto
+- dangerous #card #english-spanish
+  - peligroso
+- available #card #english-spanish
+  - disponible
+- room #card #english-spanish
+  - habitación
+- work #card #english-spanish
+  - trabajar
+- fast #card #english-spanish
+  - rápido
+- slow #card #english-spanish
+  - lento
+- stop #card #english-spanish
+  - deténgase
+- zero #card #english-spanish
+  - cero
+- half #card #english-spanish
+  - mitad
+- one #card #english-spanish
+  - una
+- two #card #english-spanish
+  - dos
+- three #card #english-spanish
+  - Tres
+- four #card #english-spanish
+  - cuatro
+- five #card #english-spanish
+  - cinco
+- six #card #english-spanish
+  - seis
+- seven #card #english-spanish
+  - Siete
+- eight #card #english-spanish
+  - ocho
+- nine #card #english-spanish
+  - nueve
+- ten #card #english-spanish
+  - diez
+- eleven #card #english-spanish
+  - once
+- twleve #card #english-spanish
+  - doce
+- thirteen #card #english-spanish
+  - trece
+- fourteen #card #english-spanish
+  - catorce
+- fifteen #card #english-spanish
+  - quince
+- nineteen #card #english-spanish
+  - diecinueve
+- twenty #card #english-spanish
+  - veinte
+- thirty #card #english-spanish
+  - treinta
+- forty #card #english-spanish
+  - cuarenta
+- fifty #card #english-spanish
+  - cincuenta
+- sixty #card #english-spanish
+  - sesenta
+- seventy #card #english-spanish
+  - setenta
+- eighty #card #english-spanish
+  - ochenta
+- ninety #card #english-spanish
+  - noventa
+- hundred #card #english-spanish
+  - ciento
+- five hundred #card #english-spanish
+  - quinientos
+- thousand #card #english-spanish
+  - mil
