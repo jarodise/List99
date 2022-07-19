@@ -1,3 +1,4 @@
+https://py-googletrans.readthedocs.io/en/latest/
 LANGUAGES = {
     'af': 'afrikaans',
     'sq': 'albanian',
